@@ -1,0 +1,15 @@
+C:\Users\vothuong\source\repos\Learning\Blazorfirstprojest\testconsole\obj\Debug\net6.0\testconsole.csproj.AssemblyReference.cache
+C:\Users\vothuong\source\repos\Learning\Blazorfirstprojest\testconsole\obj\Debug\net6.0\testconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vothuong\source\repos\Learning\Blazorfirstprojest\testconsole\obj\Debug\net6.0\testconsole.AssemblyInfoInputs.cache
+C:\Users\vothuong\source\repos\Learning\Blazorfirstprojest\testconsole\obj\Debug\net6.0\testconsole.AssemblyInfo.cs
+C:\Users\vothuong\source\repos\Learning\Blazorfirstprojest\testconsole\obj\Debug\net6.0\testconsole.csproj.CoreCompileInputs.cache
+C:\Users\vothuong\source\repos\Learning\Blazorfirstprojest\testconsole\bin\Debug\net6.0\testconsole.exe
+C:\Users\vothuong\source\repos\Learning\Blazorfirstprojest\testconsole\bin\Debug\net6.0\testconsole.deps.json
+C:\Users\vothuong\source\repos\Learning\Blazorfirstprojest\testconsole\bin\Debug\net6.0\testconsole.runtimeconfig.json
+C:\Users\vothuong\source\repos\Learning\Blazorfirstprojest\testconsole\bin\Debug\net6.0\testconsole.dll
+C:\Users\vothuong\source\repos\Learning\Blazorfirstprojest\testconsole\bin\Debug\net6.0\ref\testconsole.dll
+C:\Users\vothuong\source\repos\Learning\Blazorfirstprojest\testconsole\bin\Debug\net6.0\testconsole.pdb
+C:\Users\vothuong\source\repos\Learning\Blazorfirstprojest\testconsole\obj\Debug\net6.0\testconsole.dll
+C:\Users\vothuong\source\repos\Learning\Blazorfirstprojest\testconsole\obj\Debug\net6.0\ref\testconsole.dll
+C:\Users\vothuong\source\repos\Learning\Blazorfirstprojest\testconsole\obj\Debug\net6.0\testconsole.pdb
+C:\Users\vothuong\source\repos\Learning\Blazorfirstprojest\testconsole\obj\Debug\net6.0\testconsole.genruntimeconfig.cache
